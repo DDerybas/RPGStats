@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c7fbb1f02937a784ebbc57683d1652bf, type: 3}
-  m_Name: Stat_Main_Armor
+  m_Name: Stat_Armor_Armor
   m_EditorClassIdentifier: 
   <Icon>k__BackingField: {fileID: 21300000, guid: 31284683e8e0d2f439d0df2625211bee, type: 3}
